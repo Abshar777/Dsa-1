@@ -120,6 +120,7 @@ remove(index){
     if(index1<0 || index2<0 || index1>th)
   }
 }
+//----
 
 const list=new LinkedList()
 list.prepend(5)
